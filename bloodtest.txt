@@ -1,0 +1,4 @@
+the brief about the project 
+the technologies we have used
+how it will be helpful and responsive to the end user 
+
